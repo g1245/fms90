@@ -1,6 +1,6 @@
 Hi! Welcome!
 
-I'm @fms90, Developer from Brazil.
+I'm @fms90, developer from Brazil.
 
 I like to feel when my activities help to reduce flows, optimize processes and increase productivity.
 
