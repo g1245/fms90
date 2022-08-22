@@ -1,11 +1,9 @@
-Hi! Welcome!
+Oi! Bem-vindo!
 
-I'm @fms90, developer from Brazil.
+Sou o @fms90, desenvolvedor web no Brasil.
 
-I like to feel when my activities help to reduce flows, optimize processes and increase productivity.
-
-My work is in PHP, JS, virtualization and scalable enviroment.
+Formado em Sistemas para Internet, pela Universidade Feevale, tenho mais de 10 anos de experiência no desenvolvimento de aplicativos, pagamentos online, sistemas e sites.
 
 --
 
-In this repository there will only be basic projects, which I made to practice and skill demonstration.
+Neste repositório haverá apenas projetos básicos, que fiz para prática e demonstração de skills.
